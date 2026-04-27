@@ -21,7 +21,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "minecraft-data": "github:BaconCat1/node-minecraft-data#update-from-prismarine",
+    "minecraft-data": "^3.109.1",
     "minecraft-protocol": "^1.66.0",
     "mojangson": "^2.0.4",
     "prismarine-biome": "^1.1.1",
@@ -52,7 +52,5 @@
     "standard-markdown": "^7.1.0",
     "typescript": "^5.4.5"
   },
-  "overrides": {
-    "minecraft-data": "github:BaconCat1/node-minecraft-data#update-from-prismarine"
-  }
+  "overrides": {}
 }
